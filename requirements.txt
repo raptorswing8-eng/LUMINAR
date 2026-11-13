@@ -1,0 +1,8 @@
+# For running tests / tools locally (Colab installs what it needs in the notebook's first cell)
+numpy
+scipy
+opencv-python>=4.8
+scikit-image
+matplotlib
+pytest
+# optional deep matcher: torch + LightGlue (git+https://github.com/cvg/LightGlue.git)
